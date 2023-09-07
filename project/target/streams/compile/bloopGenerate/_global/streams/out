@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0m[spark-final-build] Classpath dependencies List()[0m
+[0m[[0m[0mdebug[0m] [0m[0m[spark-final-build] Dependencies from configurations List()[0m
+[0m[[0m[0mdebug[0m] [0m[0mBloop wrote the configuration of project 'spark-final-build' to '/home/john-thomas2/spark-final/spark-final/project/.bloop/spark-final-build.json'[0m
+[0m[[0m[32msuccess[0m] [0m[0mGenerated .bloop/spark-final-build.json[0m
