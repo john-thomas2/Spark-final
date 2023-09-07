@@ -1,0 +1,14 @@
+[
+    {
+      "cei_code": 121,
+      "primary_key": "d_name"
+    },
+    {
+      "cei_code": 122,
+      "primary_key": "u_name"
+    },
+    {
+      "cei_code": 123,
+      "primary_key": "d_name"
+    }
+]
